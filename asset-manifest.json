@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Menu-List-in-React/static/css/main.3e5a5365.css",
+    "main.js": "/Restaurant-Menu-List-in-React/static/js/main.b053f1e2.js",
+    "static/js/787.b9c089f5.chunk.js": "/Restaurant-Menu-List-in-React/static/js/787.b9c089f5.chunk.js",
+    "index.html": "/Restaurant-Menu-List-in-React/index.html",
+    "main.3e5a5365.css.map": "/Restaurant-Menu-List-in-React/static/css/main.3e5a5365.css.map",
+    "main.b053f1e2.js.map": "/Restaurant-Menu-List-in-React/static/js/main.b053f1e2.js.map",
+    "787.b9c089f5.chunk.js.map": "/Restaurant-Menu-List-in-React/static/js/787.b9c089f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5a5365.css",
+    "static/js/main.b053f1e2.js"
+  ]
+}
